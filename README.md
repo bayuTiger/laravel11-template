@@ -2,6 +2,7 @@
 
 ```
 docker compose up -d --build
+docker exec l11dev-app npm run dev
 ```
 
 ## 記事⇩
